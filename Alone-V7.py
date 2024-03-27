@@ -1213,10 +1213,7 @@ def passwrd():
                     pwv.append(frs+'2022')
                     pwv.append(frs+'2024')
                     pwv.append(frs+'420')
-	            pwv.append(frs+'99')
-                    pwv.append(frs+'999')
-	            pwv.append(frs+'990')
-		    pwv.append(frs+'009')
+	            
 		    
             else:
                 if len(frs)<3:
